@@ -676,6 +676,10 @@ We can fix this with _Greater than or equal operator (`>=`)_:
 ```js
 3 > 2 >= 1 // true
 ```
+However...
+```js
+5 > 4 >= 3 // false
+```
 
 Read more about Relational operators in the specification:
 
